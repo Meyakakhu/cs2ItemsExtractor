@@ -5,7 +5,7 @@
 ```
 Windows (x64)
 Python 3.8+
-10Gb free space on disk with installed CS:2
+5Gb free space on disk with installed CS:2
 ```
 
 ## Using
@@ -20,7 +20,7 @@ Execute GetItems.bat
 ```
 Windows (x64)
 Python 3.8+
-10Гб свободного места на диске с установленной CS:2
+5Гб свободного места на диске с установленной CS:2
 ```
 ## Использование
 ```
